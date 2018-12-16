@@ -1,0 +1,30 @@
+[
+  {
+    "city": "Amsterdam",
+    "data": {
+      "date": "10-12-2018",
+      "values": { "count": 10, "sum_price": 456464 }
+    }
+  },
+  {
+    "city": "Amsterdam",
+    "data": {
+      "date": "11-12-2018",
+      "values": { "count": 10, "sum_price": 6978978 }
+    }
+  },
+  {
+    "city": "Amsterdam",
+    "data": {
+      "date": "12-12-2018",
+      "values": { "count": 10, "sum_price": 359241 }
+    }
+  },
+  {
+    "city": "Amsterdam",
+    "data": {
+      "date": "13-12-2018",
+      "values": { "count": 10, "sum_price": 489826 }
+    }
+  }
+]
