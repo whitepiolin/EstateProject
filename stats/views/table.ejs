@@ -1,0 +1,21 @@
+<html><body>
+  <table">
+    <tr>
+      <th width="50px">No</th>
+      <th>city</th>
+      <th>date</th>
+      <th>count</th>
+      <th>sum_price</th>
+    </tr>
+    <% if(data.length){ 
+      for(var i = 0;i < data.length;i++) { %>
+    <tr>
+      <td><%=data[i].city></td>
+      <td><%=data[i].data.date></td>
+      <td><%=data[i].data.values.count></td>
+      <td><%=data[i].data.values.sum_price></td>
+    </tr>
+    <% }
+    }
+  </table>
+  </body></html>
